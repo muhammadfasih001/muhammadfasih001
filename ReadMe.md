@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Frontend Flutter Developer</h3>
 
 <img align="center" alt="coding" width="500" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
-">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadfasih001&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadfasih001" /> </p>
 
