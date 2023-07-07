@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Fasih</h1>
 <h3 align="center">A passionate Frontend Flutter Developer</h3>
 
-<img align="center" alt="coding" width="500" src="https://tenor.com/search/coding-gifs">
+<img align="center" alt="coding" width="500" src="![image](https://github.com/muhammadfasih001/muhammadfasih001/assets/136199412/2696f4f6-7b52-420c-a54e-e26973cd176a)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadfasih001&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadfasih001" /> </p>
 
