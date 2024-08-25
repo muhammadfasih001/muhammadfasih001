@@ -1,10 +1,13 @@
+<!-- Include Lottie Player Script -->
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+
 <!-- Updated Master Head -->
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flutter_masterhead.gif?alt=media&token=12345678-90ab-cdef-1234-567890abcdef)](https://www.linkedin.com/in/muhammad-fasih-349939275/)
 <h1 align="center">Hi 👋, I'm Muhammad Fasih</h1>
 <h3 align="center">A Passionate Flutter Developer from Karachi, Pakistan</h3>
 
-<!-- Updated Coding GIF -->
-<img align="right" alt="Flutter Development" width="400" src="[https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif](https://app.lottiefiles.com/animation/6f7f1ec2-a378-4665-860b-7ad3f09fffd6)">
+<!-- Lottie Animation for Development -->
+<lottie-player src="https://assets8.lottiefiles.com/packages/lf20_j2skfkxb.json"  background="transparent"  speed="1"  style="width: 400px; height: 400px;"  loop  autoplay></lottie-player>
 
 <!-- Profile Views -->
 <p align="left">
