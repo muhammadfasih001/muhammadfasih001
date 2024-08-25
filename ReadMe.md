@@ -10,9 +10,9 @@
 </p>
 
 <!-- About Me -->
-- 🌱 I’m currently learning **Flutter & Dart**
-- 💬 Ask me about **Flutter, Dart, HTML/CSS, JavaScript**
-- 📫 How to reach me **muhammadfasih006@gmail.com**
+- 🌱 I’m currently advancing my skills in **Flutter & Dart**
+- 💬 Feel free to ask me about **Flutter, Dart, HTML/CSS, JavaScript**
+- 📫 You can reach me at **muhammadfasih006@gmail.com**
 - ⚡ Fun fact: **I code at night**
 
 <!-- Connect with Me -->
