@@ -6,8 +6,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Fasih</h1>
 <h3 align="center">A Passionate Flutter Developer from Karachi, Pakistan</h3>
 
-<!-- Lottie Animation for Development -->
-<lottie-player src="https://assets8.lottiefiles.com/packages/lf20_j2skfkxb.json"  background="transparent"  speed="1"  style="width: 400px; height: 400px;"  loop  autoplay></lottie-player>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadfasih001&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadfasih001" /> </p>
 
 <!-- Profile Views -->
 <p align="left">
