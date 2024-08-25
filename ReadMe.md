@@ -24,7 +24,7 @@
   <a href="https://fb.com/fasiabbasi2002" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fasiabbasi2002" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/fasih_muhammad_sadiq/" target="blank">
+  <a href="https://www.instagram.com/iam_fasih/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fasih_muhammad_sadiq/" height="30" width="40" />
   </a>
 </p>
